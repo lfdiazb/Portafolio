@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  background:#F0E7F7;
+}
+
+.barra_izq {
+  width: 150px; 
+  height: 800px;
+  position: sticky;
+  margin: 20px;
+  border-radius: 20px;
+  background: #B9ADC7;
+  position: relative;
+  top: -55px;
+
+}
+
+.barra_izq .menu{
+  background: ;
+  height: 150px;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+}
+
+.barra_izq menu: hover{
+  background: #85759B;
+}
+
+.barra_izq .menu a{
+  text-decoration: none;
+  color: #363062;
+  
+}
+
+.barra_izq .menu a h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 90px;
+  height: 150px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+}
+
+.barra_izq .menu a p{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: -120px;
+}
+
+.barra_izq .menu2{
+  background: #85759B;
+  height: 150px;
+  border-radius: 20px;
+  position: relative;
+  top: 175px;
+  display: flex;
+  justify-content: center;
+  
+}
+.barra_izq .menu2 a{
+  text-decoration: none;
+  color: #363062;
+}
+.barra_izq .menu2 a h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 90px;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  top: -74px;
+  display: flex;
+  justify-content: center;
+}
+.barra_izq .menu2 a p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  background: gree;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: -195px;
+}
+
+.barra_izq .menu3{
+  background: #85759;
+  height: 150px;
+  border-radius: 20px;
+  position: relative;
+  top: 350px;
+  display: flex;
+  justify-content: center;
+  
+}
+.barra_izq .menu3 a{
+  text-decoration: none;
+  color: #363062;
+}
+.barra_izq .menu3 a h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 90px;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  top: -74px;
+  display: flex;
+  justify-content: center;
+}
+.barra_izq .menu3 a p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  background: gree;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: -195px;
+}
+
+.galeria .jbl{
+  background-size: cover;
+  height: 800px;
+  width: 1422px;
+  margin-left: 200px;
+  position: relative;
+  top: -875px;
+  border-radius: 20px;
+}
+
+.galeria .opacidad{
+  height: 800px;
+  width: 1422px;
+  background: #827397;
+  opacity: 0.35;
+  border-radius: 20px;
+}
+
+.galeria h1{
+  color: #4D4C7D;
+  width: 750px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 150px;
+  position: relative;
+  top: -960px;
+  left: 655px
+}
